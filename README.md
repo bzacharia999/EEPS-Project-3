@@ -5,7 +5,6 @@ Project 3 for EEPS 153
 Our project attempts to study how observed prices and budget constraints influence food demand, comparing price elasticity of food across different years and regions in Nigeria.
 
 ---
- Kita Hu, Tanaisha Mistry, Natalie Cornejo, Benjamin Sabu Zacharia
 ### **Group Members**
 - Inaaya Hasham  
 - Kita Hu
