@@ -18,7 +18,7 @@ Our project attempts to study how observed prices and budget constraints influen
 
 ### **Project Structure**
 
-#### 📁 **Nutrient Data**  
+#### **Nutrient Data**  
 FoodNutrientsNG.csv - The dataframe generated and saved from running food_nutritional_contents.ipynb, to be passed into other exploratory notebooks.
 
 
@@ -28,5 +28,5 @@ FoodNutrientsNG.csv - The dataframe generated and saved from running food_nutrit
 - `food_nutritional_contents.ipynb`: Explores the nutritional content of different foods in the nigerian diet as listed in the fdc database.
 
 
-#### 📄 **requirements.txt and requirements-estimation.txt**  
+#### **requirements.txt and requirements-estimation.txt**  
 Contains dependencies required to run the notebooks
